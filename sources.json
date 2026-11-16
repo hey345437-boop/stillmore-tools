@@ -1,0 +1,145 @@
+{
+  "channels": {
+    "waitroseandpartners": {
+      "sector": "food",
+      "channel": "UCFNJOpACpCFRH_Fm_66L3iw"
+    },
+    "elfcosmetics": {
+      "sector": "beauty",
+      "channel": "UCYBe3cPCbjUManWo2Mg8tNg"
+    },
+    "LEGO": {
+      "sector": "gifts",
+      "channel": "UCP-Ng5SXUEt0VE-TXqRdL6g"
+    },
+    "OXO": {
+      "sector": "home",
+      "channel": "UCDvReUBDSrDnfH-0m4qUVow"
+    },
+    "CarawayHome": {
+      "sector": "home",
+      "channel": "UCJsXvgPNLuAnfgdbkvTxEbQ"
+    },
+    "FlyByJing": {
+      "sector": "food",
+      "channel": "UC84cwM3N26ViGbRH7QMXrFQ"
+    },
+    "FellowProducts": {
+      "sector": "home",
+      "channel": "UCrtS-B4xQtbNVnyqC4lSSHg"
+    },
+    "PeakDesignVideo": {
+      "sector": "accessories",
+      "channel": "UCCXxVerycxB08muPJta5WBQ"
+    },
+    "tentree": {
+      "sector": "apparel",
+      "channel": "UCkelH8H17wSdKUeaYuXu06g"
+    },
+    "Patagonia": {
+      "sector": "apparel",
+      "channel": "UCl3xZ-f3cQhOHvH6f-7-ssQ"
+    },
+    "TheOrdinary": {
+      "sector": "beauty",
+      "channel": "UCK9Fa2SyqSZBPoZFSdF5E2Q"
+    },
+    "KingArthurBakingCompany": {
+      "sector": "food",
+      "channel": "UCUvUKGDBCqJzV4OwJkQWCHg"
+    },
+    "OoniHQ": {
+      "sector": "home",
+      "channel": "UCYzfI-z1fyo2rVbpkDmu7Fg"
+    },
+    "Baratza": {
+      "sector": "home",
+      "channel": "UCFXV9KHCTzJlhrKDbDkYYlw"
+    },
+    "Etsy": {
+      "sector": "gifts",
+      "channel": "UCrU8iuSBmgZUNUoU1-sYfbQ"
+    },
+    "Cricut": {
+      "sector": "gifts",
+      "channel": "UCenmvBlGmukLZG0ELpS6mRQ"
+    },
+    "Gozney": {
+      "sector": "home",
+      "channel": "UC44_De7YyvGuLpLYRh4iTbA"
+    },
+    "ChamberlainCoffee": {
+      "sector": "food",
+      "channel": "UCnczwH3BnO7hVYCo9tOUg7A"
+    },
+    "Ruffwear": {
+      "sector": "accessories",
+      "channel": "UCKz3qkJnV4TTWmcU--ISy4g"
+    },
+    "RareBeauty": {
+      "sector": "beauty",
+      "channel": "UCvOtsjwO04Seaep0J2clYEw"
+    },
+    "Ruggable": {
+      "sector": "home",
+      "channel": "UCjPLGXPlp5Z7pxXESmdznWQ"
+    },
+    "ScrubDaddy": {
+      "sector": "home",
+      "channel": "UCSL8h6TsvdnGampuxJldwNg"
+    },
+    "HexClad": {
+      "sector": "home",
+      "channel": "UCmQfQfilpSIIfX9Yx1Slfyg"
+    },
+    "Owala": {
+      "sector": "home",
+      "channel": "UCV8kZKGmOK5NRljhibxPcTg"
+    },
+    "Carpe": {
+      "sector": "beauty",
+      "channel": "UCRlz-jSOiPExZSmTS8zNPeA"
+    },
+    "Manscaped": {
+      "sector": "beauty",
+      "channel": "UCSFOWOgB_s52kkhzRaCS2gQ"
+    },
+    "TUSHY": {
+      "sector": "home",
+      "channel": "UCs-h_9kW54j6QVbABCyni-g"
+    },
+    "Chubbies": {
+      "sector": "apparel",
+      "channel": "UCSJRqPvf2jo4a-m--vlJrPQ"
+    }
+  },
+  "discovery": {
+    "Marketing Dive": "https://www.marketingdive.com/feeds/news/",
+    "Retail campaign news": "https://news.google.com/rss/search?q=%22campaign%22+%28retail+OR+beauty+OR+food%29+%28ad+OR+film+OR+video%29+when:7d&hl=en-US&gl=US&ceid=US:en",
+    "Vimeo Staff Picks": "https://vimeo.com/channels/staffpicks/videos/rss",
+    "Stash 制作与幕后": "https://www.stashmedia.tv/feed/",
+    "Creative Boom 设计工作室": "https://www.creativeboom.com/feed/",
+    "The Dieline 包装设计": "https://www.thedieline.com/feed/",
+    "Beauty Independent 独立美妆": "https://www.beautyindependent.com/feed/",
+    "Retail Dive 零售活动": "https://www.retaildive.com/feeds/news/",
+    "Social Media Today": "https://www.socialmediatoday.com/feeds/news/",
+    "Modern Retail": "https://www.modernretail.co/feed/",
+    "Adweek": "https://www.adweek.com/feed/",
+    "Adland": "https://adland.tv/rss.xml",
+    "TikTok Shop 电商视频线索": "https://news.google.com/rss/search?q=%22TikTok+Shop%22+%28video+OR+creator+OR+campaign%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+    "Instagram Reels 商品创意线索": "https://news.google.com/rss/search?q=%22Reels%22+%28product+OR+ecommerce+OR+brand%29+%28campaign+OR+video%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+    "UGC 商品演示线索": "https://news.google.com/rss/search?q=%28%22UGC%22+OR+%22creator-led%22%29+%28%22product+demo%22+OR+%22product+video%22+OR+ecommerce%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+    "DTC 品牌短视频线索": "https://news.google.com/rss/search?q=%28%22DTC%22+OR+%22direct-to-consumer%22%29+%28beauty+OR+skincare+OR+clothing+OR+food+OR+homeware%29+%28video+OR+campaign%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+    "小商家短视频线索": "https://news.google.com/rss/search?q=%28%22small+business%22+OR+%22small+brand%22%29+%28%22TikTok%22+OR+%22Reels%22%29+%28video+OR+viral%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+    "电商广告创意线索": "https://news.google.com/rss/search?q=%28%22beauty%22+OR+%22food%22+OR+%22homeware%22+OR+%22fashion%22%29+%28%22ad+campaign%22+OR+%22video+campaign%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+  },
+  "high_views": 1000000,
+  "cta": "https://stillmore.studio/inspiration",
+  "lookback_hours": 168,
+  "priority_hours": 12,
+  "duration_under_seconds": 60,
+  "minimum_views_exclusive": 10000,
+  "max_results": 5,
+  "timezone": "Asia/Shanghai",
+  "report_language": "zh-CN"
+}
